@@ -23,11 +23,11 @@ Building a web application with its own database, that imports calendar data fro
 
 * Middleware-server:
 
-      * runtime            	    : Node.js
-      * framework       	    : Express.js	
-      * database          	    : Mongo 
-      * unit-testing                  : Jest
-      * package manager       : NPM
+       Runtime            	    : Node.js
+       Framework       	    : Express.js	
+       Database          	    : Mongo 
+       Unit-testing               : Jest
+       Package manager          : NPM
       
 * Web-UI.
 * Authentication/Authorization server.
