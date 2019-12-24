@@ -31,8 +31,8 @@ Building a web application with its own database, that imports calendar data fro
       
 * Web-UI:
 
-       Web tech              : HTML, CSS, JavaScript
-       CSS		         	: bootstrap, font-awesome
+       Web tech               : HTML, CSS, JavaScript
+       CSS		      : bootstrap, font-awesome
        UI lib          	: React.js
        State management       : Redux.js
        Build tools      	: NPM 
