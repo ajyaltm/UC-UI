@@ -41,4 +41,7 @@ Building a web application with its own database, that imports calendar data fro
        
 * Authentication/Authorization server.
 
+      Integration with AD / LDAP
+
+
 
