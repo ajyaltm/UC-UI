@@ -18,3 +18,9 @@ Building a web application with its own database, that imports calendar data fro
 ## Data Sources
 1. Microsoft exchange server
 2. Gitlab
+
+## Main Parts :
+
+* Middleware-server.
+* Web-UI.
+* Authentication/Authorization server.
