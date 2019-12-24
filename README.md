@@ -27,7 +27,7 @@ Building a web application with its own database, that imports calendar data fro
        Framework       	    : Express.js	
        Database          	    : Mongo 
        Unit-testing               : Jest
-       Package manager          : NPM
+       Package manager            : NPM
       
 * Web-UI.
 * Authentication/Authorization server.
