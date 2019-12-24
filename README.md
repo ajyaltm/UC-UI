@@ -24,3 +24,7 @@ Building a web application with its own database, that imports calendar data fro
 * Middleware-server.
 * Web-UI.
 * Authentication/Authorization server.
+
+  [![NPM Version][npm-image]][npm-url]
+[npm-image]: https://img.shields.io/npm/v/express.svg
+[npm-url]: https://npmjs.org/package/express
