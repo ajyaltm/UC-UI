@@ -5,27 +5,28 @@ Unified Calendar - User Interface
 -----------------------------------
 ## Components:-
 
-  ## Header 
+  ## 1. Header 
     * Logo
     * Title
     * Login: needes login details from db 
   
-  ## Logout
+  ## 2. Logout
   
-  ## Calander
+  ## 3. Calander
     * Cell : *Title event *Time *Period 
    
-  ## Notifications: *User ID *User name *Title *Email *Date *Time
+  ## 4. Notifications: *User ID *User name *Title *Email *Date *Time
    
-  ## Nav
+  ## 5. Nav
    
-    Add Events
-    * Form: *Date *Time
+    * - Add Events
+    
+          Form: *Date *Time
    
-    * Leader: *Department *Leader ID
+    * - Leader: *Department *Leader ID
    
-    * Member: *Department *Member ID
+    * - Member: *Department *Member ID
    
-    * Help: *Phone *Email 
+    * - Help: *Phone *Email 
    
-    * Submit: add to calendar: *Title *Time *Period 
+    * - Submit: add to calendar: *Title *Time *Period 
