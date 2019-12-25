@@ -19,16 +19,8 @@ Building a web application with its own database, that imports calendar data fro
 1. Microsoft exchange server
 2. Gitlab
 
-## Main Parts :
+## Main Part :
 
-* Middleware-server:
-
-       Runtime            	    : Node.js
-       Framework       	    : Express.js	
-       Database          	    : Mongo 
-       Unit-testing               : Jest
-       Package manager            : NPM
-      
 * Web-UI:
 
        Web tech               : HTML, CSS, JavaScript
@@ -39,9 +31,7 @@ Building a web application with its own database, that imports calendar data fro
        Unit-testing   	: Jest
        End-to-end    		: selenium, cucumber
        
-* Authentication/Authorization server.
 
-      Integration with AD / LDAP
 
 
 
