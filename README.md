@@ -1,31 +1,31 @@
 # UC-UI
-unified calendar - user interface
+Unified Calendar - User Interface
 
 
 -----------------------------------
-Components:-
+## Components:-
 
-  -Header 
-    -Logo
-    -Title
-    -Login: needes login details from db 
+  ## Header 
+    * Logo
+    * Title
+    * Login: needes login details from db 
   
-  -Logout
+  ## Logout
   
-  -Calander
-    -Cell : *Title event *Time *Period 
+  ## Calander
+    * Cell : *Title event *Time *Period 
    
-   -Notifications: *User ID *User name *Title *Email *Date *Time
+  ## Notifications: *User ID *User name *Title *Email *Date *Time
    
-   -Nav
+  ## Nav
    
-   -Add Events
-    -Form: *Date *Time
+    Add Events
+    * Form: *Date *Time
    
-   -Leader: *Department *Leader ID
+    * Leader: *Department *Leader ID
    
-   -Member: *Department *Member ID
+    * Member: *Department *Member ID
    
-   -Help: *Phone *Email 
+    * Help: *Phone *Email 
    
-   -Submit: add to calendar: *Title *Time *Period 
+    * Submit: add to calendar: *Title *Time *Period 
