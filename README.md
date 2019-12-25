@@ -19,7 +19,7 @@ Building a web application with its own database, that imports calendar data fro
 1. Microsoft exchange server
 2. Gitlab
 
-## Main Part :
+## Technologies in UI :
 
 * Web-UI:
 
