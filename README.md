@@ -1,6 +1,5 @@
 # UC-UI
 ## Unified Calendar - User Interface
-![Logo](https://omextemplates.content.office.net/support/templates/en-us/lt16410086.png)
 
 ## Objective
 
