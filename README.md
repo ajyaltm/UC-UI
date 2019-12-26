@@ -1,6 +1,9 @@
 # UC-UI
 ## Unified Calendar - User Interface
 
+[![Calendar Logo](https://github.com/ajyaltm/uc-ui/blob/master/calendar%20logo.png)]
+
+
 ## Objective
 
 Building a web application with its own database, that imports calendar data from other systems in other networks, the system shall allow logged in users to view all calendar events from different systems in layered view. Users can also add additional events directly through the web interface. Managers shall be able to view the calendars of their teams.
