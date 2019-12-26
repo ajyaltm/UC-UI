@@ -1,7 +1,7 @@
 # UC-UI
 ## Unified Calendar - User Interface
 
-[![Calendar Logo](https://github.com/ajyaltm/uc-ui/blob/master/calendar%20logo.png)]
+![Calendar Logo](https://github.com/ajyaltm/uc-ui/blob/master/calendar%20logo.png)
 
 
 ## Objective
